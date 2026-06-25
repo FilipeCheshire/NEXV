@@ -1,0 +1,6 @@
+{
+  "name": "NEXT",
+  "description": "Plataforma educacional de simulação de investimentos e educação financeira para iniciantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
